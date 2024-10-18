@@ -17,7 +17,9 @@ Demo video in progress. It will be released as soon as it is completed.
 ## Getting Started
 Please refer to this article.
 
-[Zenn](https://zenn.dev/kthrlab_blog/articles/2995505b02c51c)
+[Zenn (Japanese)](https://zenn.dev/kthrlab_blog/articles/2995505b02c51c)
+
+[Zenn (Google Transrate Japanese -> English)](https://zenn-dev.translate.goog/kthrlab_blog/articles/2995505b02c51c?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true)
 
 ### Authors
 [Shinnosuke Seki](https://sites.google.com/kthrlab.jp/seki/)
